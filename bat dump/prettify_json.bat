@@ -1,0 +1,1 @@
+python C:\scripts\prettify_json.py %*
